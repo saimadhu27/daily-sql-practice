@@ -28,6 +28,8 @@ DAILY-SQL-PRACTICE/
 ├── MONTH-YEAR/
 │   └── 01_.sql
 
+```
+
 ## 🧾 SQL File Template
 
 Each SQL file includes a brief header with useful metadata:
